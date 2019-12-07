@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-yazi-tura/static/css/main.6f842b94.chunk.css",
-    "main.js": "/react-yazi-tura/static/js/main.21f4d18f.chunk.js",
-    "main.js.map": "/react-yazi-tura/static/js/main.21f4d18f.chunk.js.map",
-    "runtime~main.js": "/react-yazi-tura/static/js/runtime~main.604164de.js",
-    "runtime~main.js.map": "/react-yazi-tura/static/js/runtime~main.604164de.js.map",
-    "static/js/2.c202c282.chunk.js": "/react-yazi-tura/static/js/2.c202c282.chunk.js",
-    "static/js/2.c202c282.chunk.js.map": "/react-yazi-tura/static/js/2.c202c282.chunk.js.map",
-    "index.html": "/react-yazi-tura/index.html",
-    "precache-manifest.c97f2d0c41db5dc4cbb5dc52ddc46329.js": "/react-yazi-tura/precache-manifest.c97f2d0c41db5dc4cbb5dc52ddc46329.js",
-    "service-worker.js": "/react-yazi-tura/service-worker.js",
-    "static/css/main.6f842b94.chunk.css.map": "/react-yazi-tura/static/css/main.6f842b94.chunk.css.map",
-    "static/media/1-lira-tura.png": "/react-yazi-tura/static/media/1-lira-tura.7c42669a.png",
-    "static/media/1-lira-yazi.png": "/react-yazi-tura/static/media/1-lira-yazi.9b70882e.png"
+    "main.css": "//react-yazi-tura/static/css/main.6f842b94.chunk.css",
+    "main.js": "//react-yazi-tura/static/js/main.a510fca6.chunk.js",
+    "main.js.map": "//react-yazi-tura/static/js/main.a510fca6.chunk.js.map",
+    "runtime~main.js": "//react-yazi-tura/static/js/runtime~main.680d0e93.js",
+    "runtime~main.js.map": "//react-yazi-tura/static/js/runtime~main.680d0e93.js.map",
+    "static/js/2.c202c282.chunk.js": "//react-yazi-tura/static/js/2.c202c282.chunk.js",
+    "static/js/2.c202c282.chunk.js.map": "//react-yazi-tura/static/js/2.c202c282.chunk.js.map",
+    "index.html": "//react-yazi-tura/index.html",
+    "precache-manifest.e90405774466d5538aac34a8720a95ac.js": "//react-yazi-tura/precache-manifest.e90405774466d5538aac34a8720a95ac.js",
+    "service-worker.js": "//react-yazi-tura/service-worker.js",
+    "static/css/main.6f842b94.chunk.css.map": "//react-yazi-tura/static/css/main.6f842b94.chunk.css.map",
+    "static/media/1-lira-tura.png": "//react-yazi-tura/static/media/1-lira-tura.7c42669a.png",
+    "static/media/1-lira-yazi.png": "//react-yazi-tura/static/media/1-lira-yazi.9b70882e.png"
   }
 }
