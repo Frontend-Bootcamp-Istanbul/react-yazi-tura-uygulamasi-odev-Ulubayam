@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Ulubayam/react-yazi-tura-uygulamasi-odev-Ulubayam/static/css/main.6f842b94.chunk.css",
-    "main.js": "/Ulubayam/react-yazi-tura-uygulamasi-odev-Ulubayam/static/js/main.07fc4108.chunk.js",
-    "main.js.map": "/Ulubayam/react-yazi-tura-uygulamasi-odev-Ulubayam/static/js/main.07fc4108.chunk.js.map",
-    "runtime~main.js": "/Ulubayam/react-yazi-tura-uygulamasi-odev-Ulubayam/static/js/runtime~main.e6455a8c.js",
-    "runtime~main.js.map": "/Ulubayam/react-yazi-tura-uygulamasi-odev-Ulubayam/static/js/runtime~main.e6455a8c.js.map",
-    "static/js/2.c202c282.chunk.js": "/Ulubayam/react-yazi-tura-uygulamasi-odev-Ulubayam/static/js/2.c202c282.chunk.js",
-    "static/js/2.c202c282.chunk.js.map": "/Ulubayam/react-yazi-tura-uygulamasi-odev-Ulubayam/static/js/2.c202c282.chunk.js.map",
-    "index.html": "/Ulubayam/react-yazi-tura-uygulamasi-odev-Ulubayam/index.html",
-    "precache-manifest.1c8a2c66476cd890c037f92d3428e7d8.js": "/Ulubayam/react-yazi-tura-uygulamasi-odev-Ulubayam/precache-manifest.1c8a2c66476cd890c037f92d3428e7d8.js",
-    "service-worker.js": "/Ulubayam/react-yazi-tura-uygulamasi-odev-Ulubayam/service-worker.js",
-    "static/css/main.6f842b94.chunk.css.map": "/Ulubayam/react-yazi-tura-uygulamasi-odev-Ulubayam/static/css/main.6f842b94.chunk.css.map",
-    "static/media/1-lira-tura.png": "/Ulubayam/react-yazi-tura-uygulamasi-odev-Ulubayam/static/media/1-lira-tura.7c42669a.png",
-    "static/media/1-lira-yazi.png": "/Ulubayam/react-yazi-tura-uygulamasi-odev-Ulubayam/static/media/1-lira-yazi.9b70882e.png"
+    "main.css": "/react-yazi-tura-uygulamasi-odev-Ulubayam/static/css/main.6f842b94.chunk.css",
+    "main.js": "/react-yazi-tura-uygulamasi-odev-Ulubayam/static/js/main.7144ec3b.chunk.js",
+    "main.js.map": "/react-yazi-tura-uygulamasi-odev-Ulubayam/static/js/main.7144ec3b.chunk.js.map",
+    "runtime~main.js": "/react-yazi-tura-uygulamasi-odev-Ulubayam/static/js/runtime~main.8032b845.js",
+    "runtime~main.js.map": "/react-yazi-tura-uygulamasi-odev-Ulubayam/static/js/runtime~main.8032b845.js.map",
+    "static/js/2.c202c282.chunk.js": "/react-yazi-tura-uygulamasi-odev-Ulubayam/static/js/2.c202c282.chunk.js",
+    "static/js/2.c202c282.chunk.js.map": "/react-yazi-tura-uygulamasi-odev-Ulubayam/static/js/2.c202c282.chunk.js.map",
+    "index.html": "/react-yazi-tura-uygulamasi-odev-Ulubayam/index.html",
+    "precache-manifest.180881aa6cd0e5c7befcd6a60298c8f7.js": "/react-yazi-tura-uygulamasi-odev-Ulubayam/precache-manifest.180881aa6cd0e5c7befcd6a60298c8f7.js",
+    "service-worker.js": "/react-yazi-tura-uygulamasi-odev-Ulubayam/service-worker.js",
+    "static/css/main.6f842b94.chunk.css.map": "/react-yazi-tura-uygulamasi-odev-Ulubayam/static/css/main.6f842b94.chunk.css.map",
+    "static/media/1-lira-tura.png": "/react-yazi-tura-uygulamasi-odev-Ulubayam/static/media/1-lira-tura.7c42669a.png",
+    "static/media/1-lira-yazi.png": "/react-yazi-tura-uygulamasi-odev-Ulubayam/static/media/1-lira-yazi.9b70882e.png"
   }
 }
